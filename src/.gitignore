@@ -1,0 +1,8 @@
+# Node modules
+/node_modules
+/npm-debug.log
+.DS_Store
+
+# Build files
+/dist
+/build
